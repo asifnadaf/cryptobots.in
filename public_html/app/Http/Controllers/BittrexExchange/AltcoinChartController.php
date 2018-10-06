@@ -12,6 +12,7 @@ use App\Http\Controllers\Controller;
 use Charts;
 use App\Http\Requests;
 
+//Adding this comment to modified_bittrex branch. Done
 class AltcoinChartController extends Controller
 {
 
