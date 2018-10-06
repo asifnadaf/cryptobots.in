@@ -1,0 +1,10 @@
+{{ HTML::style('css/ad/bower_components/bootstrap/dist/css/bootstrap.min.css') }}
+{{ HTML::style('css/ad/css/jasny-bootstrap.min.css') }}
+{{ HTML::style('css/ad/bower_components/metisMenu/dist/metisMenu.min.css') }}
+{{ HTML::style('css/ad/dist/css/timeline.css') }}
+{{ HTML::style('css/ad/dist/css/sb-admin-2.css') }}
+{{ HTML::style('css/ad/bower_components/font-awesome/css/font-awesome.min.css') }}
+{{ HTML::style('css/ad/css/bootstrap-datetimepicker.css') }}
+{{ HTML::style('css/ad/css/bootstrap-datetimepicker.css') }}
+{{ HTML::style('css/kybarg-bootstrap-dropdown-hover-c6ab463/bootstrap-dropdownhover.min.css') }}
+{{ HTML::style('css/kybarg-bootstrap-dropdown-hover-c6ab463/animate.min.css') }}

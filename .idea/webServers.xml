@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d7250b1c-1608-438c-b966-eb84cc8239e1" name="CryptoBots.in" url="http://nectotech.com">
+        <fileTransfer host="nectotech.com" port="22" privateKey="J:\linode server details\opensshprivatekey" rootFolder="/var/www/cryptobots.in" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7f891e5d-55bf-4f97-be4a-35269f9bc026" name="Root" url="http://nectotech.com">
+        <fileTransfer host="nectotech.com" port="22" privateKey="J:\linode server details\opensshprivatekey" rootFolder="/var/www" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a950b41b-80f6-4695-8fba-66dcd1969755" name="bitcoinforprofit" url="http://nectotech.com">
+        <fileTransfer host="nectotech.com" port="22" privateKey="J:\linode server details\opensshprivatekey" rootFolder="/var/www/cryptobotpro.online/public_html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
