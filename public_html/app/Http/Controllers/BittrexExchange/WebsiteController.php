@@ -6,7 +6,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\View;
 
 
-
+//Handles front end website
 class WebsiteController extends Controller
 {
 
