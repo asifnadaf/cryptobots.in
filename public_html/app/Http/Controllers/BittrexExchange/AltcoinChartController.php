@@ -12,6 +12,7 @@ use App\Http\Controllers\Controller;
 use Charts;
 use App\Http\Requests;
 
+//This controller takes care of altcoin charts
 class AltcoinChartController extends Controller
 {
 
